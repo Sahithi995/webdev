@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ammu</title>
+</head>
+<body>
+    <select>
+        <option value=""> all catagories</option>
+        <option value=""> dresses</option>
+        <option value=""> phones</option>
+        <option value=""> books</option>
+        <option value=""> laptops</option>
+    </select>
+</body>
+</html>
